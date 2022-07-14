@@ -1,0 +1,13 @@
+username: matteo-centos
+# list below all the packages you'd like to install in your remote machine
+packages: 
+  - vim 
+  - htop 
+  - zsh
+  - gdb
+  - valgrind
+  - wireshark
+  - git-cola
+  - guake 
+  - tmux
+  - speedtest-cli
